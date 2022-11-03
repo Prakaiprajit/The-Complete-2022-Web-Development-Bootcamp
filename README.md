@@ -18,7 +18,7 @@ In this project, I used Motoko, node.js, HTML, CSS, React, and dfx Internet Comp
 <br />
 
 ### Project Submission
-[my NFTs blockchain project](https://github.com/Prakaiprajit/The-Complete-2022-Web-Development-Bootcamp/tree/master/NFT-blockchain-project/opend)
+[my NFTs blockchain project](https://github.com/Prakaiprajit/The-Complete-2022-Web-Development-Bootcamp/tree/master/NFT-blockchain-Project/NFT/opend)
 
 ### User Experience
 
